@@ -12,3 +12,5 @@ The supporting classes include Tuple, Edge, and Stack.
 
 The Tuple class is meant to represent a city and the list of next possible destinations from that city.
 
+The program has a bug with the backtracking algorithm but is conceptually correct in its implementation.
+
