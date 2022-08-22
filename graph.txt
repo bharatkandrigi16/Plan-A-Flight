@@ -1,0 +1,9 @@
+7
+Dallas|NYC|144|210
+NYC|Miami|100|188
+Dallas|Miami|124|170
+Dallas|Austin|98|47
+Austin|Houston|95|39
+Dallas|Houston|101|51
+Austin|Chicago|144|192
+
